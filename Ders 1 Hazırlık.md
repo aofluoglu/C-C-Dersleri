@@ -1,31 +1,31 @@
-Dersler haftada 3 veya 4 tane olacağı için kendiniz de bilgisayarınızdan kodları deneyip kendinizi geliştirebilirsiniz.Bu dersleri C/C++ ‘ı daha önce hiç görmemiş ama profesyonel seviyede gelişmek isteyen arkadaşlar için yazacağım.
-Öncelikli olarak C dilini anlatıp bir seviyeye geldikten sonra C++ dilinde Nesne Yönelimli Programlama anlatacağım.
-Ders içeriklerini şimdi yazacağım ve bir kaç gün içindede günleri ile beraber yayınlayacağım böylece sizin içinde takip etmek kolay olacak.
++Dersler haftada 3 veya 4 tane olacaÄŸÄ± iÃ§in kendiniz de bilgisayarÄ±nÄ±zdan kodlarÄ± deneyip kendinizi geliÅŸtirebilirsiniz.Bu dersleri +C/C++ â€˜Ä± daha Ã¶nce hiÃ§ gÃ¶rmemiÅŸ ama profesyonel seviyede geliÅŸmek isteyen arkadaÅŸlar iÃ§in yazacaÄŸÄ±m.
+Ã–ncelikli olarak C dilini anlatÄ±p bir seviyeye geldikten sonra C++ dilinde Nesne YÃ¶nelimli Programlama anlatacaÄŸÄ±m.
+Ders iÃ§eriklerini ÅŸimdi yazacaÄŸÄ±m ve bir kaÃ§ gÃ¼n iÃ§indede gÃ¼nleri ile beraber yayÄ±nlayacaÄŸÄ±m bÃ¶ylece sizin iÃ§inde takip etmek kolay olacak.
 Dersler:
 Temel C
-Programlamaya Giriş ve C dilinin tanıtımı
-Sayı Sistemleri
-Algoritma Tanımı
-Veri Türleri
-Temel Girdi Çıktılar
-Değişken Tanımlamaları
-Aritmetik Operatörler ve İşlem Öncelikleri
-Açıklama Satırları , Koşullu İfadeler
-Koşullu İfadeler Devam ( switch – case ) , Arttırma Azaltma
-Döngüler
-Sayı Sistemlerinde Dönüşümler
-Buraya Kadar Olan Dersler İçin Örnek Bir Program
-Önişlemci komutları
+Programlamaya GiriÅŸ ve C dilinin tanÄ±tÄ±mÄ±
+SayÄ± Sistemleri
+Algoritma TanÄ±mÄ±
+Veri TÃ¼rleri
+Temel Girdi Ã‡Ä±ktÄ±lar
+DeÄŸiÅŸken TanÄ±mlamalarÄ±
+Aritmetik OperatÃ¶rler ve Ä°ÅŸlem Ã–ncelikleri
+AÃ§Ä±klama SatÄ±rlarÄ± , KoÅŸullu Ä°fadeler
+KoÅŸullu Ä°fadeler Devam ( switch â€“ case ) , ArttÄ±rma Azaltma
+DÃ¶ngÃ¼ler
+SayÄ± Sistemlerinde DÃ¶nÃ¼ÅŸÃ¼mler
+Buraya Kadar Olan Dersler Ä°Ã§in Ã–rnek Bir Program
+Ã–niÅŸlemci komutlarÄ±
 Fonksiyonlar
 Recursive Fonksiyonlar
 Pointerlar
-Fonksiyonda Pointer Kullanımı
+Fonksiyonda Pointer KullanÄ±mÄ±
 Tek Boyutlu Diziler
-Çok Boyutlu Diziler
-Dinamik Bellek Yönetimi
+Ã‡ok Boyutlu Diziler
+Dinamik Bellek YÃ¶netimi
 Katarlar ( Stringler )
 Stringleri fonksiyonda kullanma
-enum , typedef Kullanımı
-Structures ‘ e Giris
-Dosya İşlemleri
-Şimdilik C dersleri için bu kadar yeterli olacaktır .
+enum , typedef KullanÄ±mÄ±
+Structures â€˜ e Giris
+Dosya Ä°ÅŸlemleri
+Åimdilik C dersleri iÃ§in bu kadar yeterli olacaktÄ±r .
