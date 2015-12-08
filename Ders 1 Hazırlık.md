@@ -6,6 +6,7 @@ Ders içeriklerini şimdi yazacağım ve bir kaç gün içindede günleri ile be
 <br />
 <br />
 <strong> Dersler: Temel C</strong><br />
+<ul>
 Programlamaya Giriş ve C dilinin tanıtımı<br />
 Sayı Sistemleri<br />
 Algoritma Tanımı<br />
@@ -31,4 +32,5 @@ Stringleri fonksiyonda kullanma<br />
 enum , typedef Kullanımı<br />
 Structures ‘ e Giris<br />
 Dosya İşlemleri<br />
+</ul>
 Şimdilik C dersleri için bu kadar yeterli olacaktır .<br />
