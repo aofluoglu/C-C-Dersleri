@@ -7,30 +7,30 @@ Ders içeriklerini şimdi yazacağım ve bir kaç gün içindede günleri ile be
 <br />
 <strong> Dersler: Temel C</strong><br />
 <ul>
-Programlamaya Giriş ve C dilinin tanıtımı<br />
-Sayı Sistemleri<br />
-Algoritma Tanımı<br />
-Veri Türleri<br />
-Temel Girdi Çıktılar<br />
-Değişken Tanımlamaları<br />
-Aritmetik Operatörler ve İşlem Öncelikleri<br />
-Açıklama Satırları , Koşullu İfadeler<br />
-Koşullu İfadeler Devam ( switch – case ) , Arttırma Azaltma<br />
-Döngüler<br />
-Sayı Sistemlerinde Dönüşümler<br />
-Buraya Kadar Olan Dersler İçin Örnek Bir Program<br />
-Önişlemci komutları<br />
-Fonksiyonlar<br />
-Recursive Fonksiyonlar<br />
-Pointerlar<br />
-Fonksiyonda Pointer Kullanımı<br />
-Tek Boyutlu Diziler<br />
-Çok Boyutlu Diziler<br />
-Dinamik Bellek Yönetimi<br />
-Katarlar ( Stringler )<br />
-Stringleri fonksiyonda kullanma<br />
-enum , typedef Kullanımı<br />
-Structures ‘ e Giris<br />
-Dosya İşlemleri<br />
+1. Programlamaya Giriş ve C dilinin tanıtımı<br />
+2. Sayı Sistemleri<br />
+3. Algoritma Tanımı<br />
+4. Veri Türleri<br />
+5. Temel Girdi Çıktılar<br />
+6. Değişken Tanımlamaları<br />
+7. Aritmetik Operatörler ve İşlem Öncelikleri<br />
+8. Açıklama Satırları , Koşullu İfadeler<br />
+9. Koşullu İfadeler Devam ( switch – case ) , Arttırma Azaltma<br />
+10. Döngüler<br />
+11. Sayı Sistemlerinde Dönüşümler<br />
+12. Buraya Kadar Olan Dersler İçin Örnek Bir Program<br />
+13. Önişlemci komutları<br />
+14. Fonksiyonlar<br />
+15. Recursive Fonksiyonlar<br />
+16. Pointerlar<br />
+17. Fonksiyonda Pointer Kullanımı<br />
+18. Tek Boyutlu Diziler<br />
+19. Çok Boyutlu Diziler<br />
+20. Dinamik Bellek Yönetimi<br />
+21. Katarlar ( Stringler )<br />
+22. Stringleri fonksiyonda kullanma<br />
+23. enum , typedef Kullanımı<br />
+24. Structures ‘ e Giris<br />
+25. Dosya İşlemleri<br />
 </ul>
 Şimdilik C dersleri için bu kadar yeterli olacaktır .<br />
