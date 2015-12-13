@@ -1,31 +1,36 @@
-Dersler haftada 3 veya 4 tane olacağı için kendiniz de bilgisayarınızdan kodları deneyip kendinizi geliştirebilirsiniz.Bu dersleri C/C++ ‘ı daha önce hiç görmemiş ama profesyonel seviyede gelişmek isteyen arkadaşlar için yazacağım.
-Öncelikli olarak C dilini anlatıp bir seviyeye geldikten sonra C++ dilinde Nesne Yönelimli Programlama anlatacağım.
-Ders içeriklerini şimdi yazacağım ve bir kaç gün içindede günleri ile beraber yayınlayacağım böylece sizin içinde takip etmek kolay olacak.
-Dersler:
-Temel C
-Programlamaya Giriş ve C dilinin tanıtımı
-Sayı Sistemleri
-Algoritma Tanımı
-Veri Türleri
-Temel Girdi Çıktılar
-Değişken Tanımlamaları
-Aritmetik Operatörler ve İşlem Öncelikleri
-Açıklama Satırları , Koşullu İfadeler
-Koşullu İfadeler Devam ( switch – case ) , Arttırma Azaltma
-Döngüler
-Sayı Sistemlerinde Dönüşümler
-Buraya Kadar Olan Dersler İçin Örnek Bir Program
-Önişlemci komutları
-Fonksiyonlar
-Recursive Fonksiyonlar
-Pointerlar
-Fonksiyonda Pointer Kullanımı
-Tek Boyutlu Diziler
-Çok Boyutlu Diziler
-Dinamik Bellek Yönetimi
-Katarlar ( Stringler )
-Stringleri fonksiyonda kullanma
-enum , typedef Kullanımı
-Structures ‘ e Giris
-Dosya İşlemleri
-Şimdilik C dersleri için bu kadar yeterli olacaktır .
+Dersler haftada 3 veya 4 tane olacaÄŸÄ± iÃ§in kendiniz de bilgisayarÄ±nÄ±zdan kodlarÄ± deneyip kendinizi geliÅŸtirebilirsiniz.Bu dersleri C/C++ â€˜Ä± daha Ã¶nce hiÃ§ gÃ¶rmemiÅŸ ama profesyonel seviyede geliÅŸmek isteyen arkadaÅŸlar iÃ§in yazacaÄŸÄ±m.
+<br />
+<br />
+Ã–ncelikli olarak C dilini anlatÄ±p bir seviyeye geldikten sonra C++ dilinde Nesne YÃ¶nelimli Programlama anlatacaÄŸÄ±m.
+Ders iÃ§eriklerini ÅŸimdi yazacaÄŸÄ±m ve bir kaÃ§ gÃ¼n iÃ§indede gÃ¼nleri ile beraber yayÄ±nlayacaÄŸÄ±m bÃ¶ylece sizin iÃ§inde takip etmek kolay olacak.
+<br />
+<br />
+<strong> Dersler: Temel C</strong><br />
+<ul>
+1. Programlamaya GiriÅŸ ve C dilinin tanÄ±tÄ±mÄ±<br />
+2. SayÄ± Sistemleri<br />
+3. Algoritma TanÄ±mÄ±<br />
+4. Veri TÃ¼rleri<br />
+5. Temel Girdi Ã‡Ä±ktÄ±lar<br />
+6. DeÄŸiÅŸken TanÄ±mlamalarÄ±<br />
+7. Aritmetik OperatÃ¶rler ve Ä°ÅŸlem Ã–ncelikleri<br />
+8. AÃ§Ä±klama SatÄ±rlarÄ± , KoÅŸullu Ä°fadeler<br />
+9. KoÅŸullu Ä°fadeler Devam ( switch â€“ case ) , ArttÄ±rma Azaltma<br />
+10. DÃ¶ngÃ¼ler<br />
+11. SayÄ± Sistemlerinde DÃ¶nÃ¼ÅŸÃ¼mler<br />
+12. Buraya Kadar Olan Dersler Ä°Ã§in Ã–rnek Bir Program<br />
+13. Ã–niÅŸlemci komutlarÄ±<br />
+14. Fonksiyonlar<br />
+15. Recursive Fonksiyonlar<br />
+16. Pointerlar<br />
+17. Fonksiyonda Pointer KullanÄ±mÄ±<br />
+18. Tek Boyutlu Diziler<br />
+19. Ã‡ok Boyutlu Diziler<br />
+20. Dinamik Bellek YÃ¶netimi<br />
+21. Katarlar ( Stringler )<br />
+22. Stringleri fonksiyonda kullanma<br />
+23. enum , typedef KullanÄ±mÄ±<br />
+24. Structures â€˜ e Giris<br />
+25. Dosya Ä°ÅŸlemleri<br />
+</ul>
+Åimdilik C dersleri iÃ§in bu kadar yeterli olacaktÄ±r .<br />
