@@ -1,0 +1,11 @@
+Merhabalar Bugun C/C++ eðitim serimizin ilk dersindeyiz.Dersler git gide artan þekilde olacaðý için kendini geliþtirmek isteyen arkadaþlar bol bol kod yazýp örnek yapmaklarý gerekmektedir.Programlama biraz nankördür çabuk unutulur ama bir kere alýþtýðýnýz ve mantýðýný kavradýðýnýz vakit içinden çýkamayacaðýnýz bir girdaptýr.
+
+Bugün öðreneceðimiz konu C dilinin tarihi , diyeceksinizki banane tarihden ben kod yazmak istiyorum aslýnda haklýsýnýz ama bana göre önünde uðraþtýðý konuyu bilmeyen kiþi hep bir adým geride olacaktýr bu yüzden kýsaca C dili nasýl oluþmuþ nasýl geliþmiþ gelin bir  bakalým.
+
+“AT&T Bell laboratuvarlarýnda, Ken Thompson ve Dennis Ritchie tarafýndan UNIX Ýþletim Sistemi’ ni geliþtirebilmek amacýyla B dilinden türetilmiþ yapýsal bir programlama dilidir.Kullanýma yaygýnlaþmasý ise Brian Kernighan  ve Dennis M. Ritchie tarafýndan yayýmlanan “C Programlama Dili” kitabýndan sonra hýzlanmýþtýr.”
+
+C dili neredeyse tüm iþletim sistemlerinin( Windows , GNU/Linux ) yapýmýnda çoðunlukla kullanýlmaktadýr.C dili doðrudan veya dolaylý yollarla bir çok dilin oluþmasýnada zemin hazýrlamýþtýr.Bunlara örnek olarak C++ , Java , C# vb. gibi diller örnek olarak verilebilir.c-programlama11
+
+Peki bu C ‘ yi öðrendik neler yapýcaz biz neler geliþtirebileceðiz.Aslýnda bu soruya verebileceðim net bir cevap yok çünkü C dilinin yapabilecekleri sýnýrsýz boyutta , sadece sizin hayal gücünüz ve bilgilerinize kalmýþ birþey bu.Ýllaki bir örnek ister iseniz þöyleki ; iþletim sistemleri , driverlar , oyunlar , antivirüsler bunlar böyle sayýp gider.
+
+Yazýmýn bugünlük kýsa tutuyorum sizide sýkmadan küçük bir giriþ yapmýþ olalým serimize bir sonraki dersimizde görüþmek dileðiyle.
