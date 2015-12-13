@@ -1,14 +1,8 @@
 # C-C-Dersleri
 
-<table>
-  <tr>
-    <td>1.</td>
-    <td><a href="https://github.com/aofluoglu/C-C-Dersleri/blob/master/Ders%201%20Haz%C4%B1rl%C4%B1k.md"> C/C++ Ders 1 Hazirlik </a></td>
-    <td> 08.12.2015 </td>
-  <tr>
-  <tr>
-    <td>2.</td>
-    <td><a href="https://github.com/aofluoglu/C-C-Dersleri/blob/master/Ders%202%20Programlamaya%20Giri%C5%9F%20ve%20C%20dilinin%20Tan%C4%B1t%C4%B1m%C4%B1.md"> C/C++ Ders 2 Programlamaya Giriş ve C dilinin Tanıtımı </a></td>
-    <td> 13.12.2015 </td>
-  <tr>
-</table>
+Kaçıncı Ders | Açıklama | Tarih
+------------ | -------- | -------
+1 | [Ders 1 Hazırlık](Ders 1 Hazırlık.md) | 08.12.2015
+2 | [Ders 2 Programlamaya Giriş ve C dilinin Tanıtımı](Ders 2 Programlamaya Giriş ve C dilinin Tanıtımı.md) | 13.12.2015
+3 | [Ders 3 Sayı Sistemleri](Ders 3 Sayı Sistemleri.md) | 13.12.2015
+4 | [Ders 4 Algoritma Tanımı.](Ders 4 Algoritma Tanımı.md) | 13.12.2015
