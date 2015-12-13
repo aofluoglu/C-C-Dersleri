@@ -1,4 +1,6 @@
 
+<strong> Sayı Sistemleri </strong>
+
 Merhabalar arkadaşlar bugün sayı sistemlerine kısaca bakacağız.Neden sayı sistemleri diye sorarsanız eğer programcılık , düşünme matematik arasında büyük bir ilişki vardır.İyi bir programcı matematikten uzak duramaz eğer uzak durmayı başarır ise de bir noktaya kadar ilerler o yüzden biraz mantığınızı açmanız için bugün sayı sistemleri göreceğiz..
 <br/ >
 <br/ >
@@ -13,7 +15,6 @@ Size sayı sistemlerinde dönüşümleri ileride anlatacağım bir kaç kodlada 
 <strong>Hexadecimal :</strong>
 <br/ >
 0 , 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9 , A , B , C , D , E , F
-
 <br/ ><br/ >
 Bunların haricinde <b>8’lik(Decimal)</b> sayı sistemi vardır.Burada anlayacağınız üzere rakamlar 0′ dan 8′ e kadar olan sayılar ile gösterilir.
 <br/ ><br/ >
