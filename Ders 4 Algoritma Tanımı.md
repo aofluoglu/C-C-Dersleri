@@ -1,22 +1,24 @@
+<strong> Algoritma Nedir? </strong>
+
 Merhabalar arkadaşlar bu dersimizde algoritma nedir onu öğreneceğiz. Programlama öğrenirken çekilen en büyük zorluklar bilgisayar gibi düşünememe ve sırayla programlamama.Bunlar benim en çok gördüğüm hatalar. Bir iş geliyor ve hemen hiç kağıt başında uğraşmadan yazmadan düşünmeden programlanmaya çalışılıyor. E tabi sonuçta bolca hatalarla uğraştığınız kötü bir şey çıkıyor ortaya. Bunun önüne geçmenin aşamalarından biri algoritmadır.
-
+<br />
 Peki nedir bu algoritma ?
-
+<br />
 Algoritma, matematikte ve bilgisayar biliminde bir işi yapmak için tanımlanan, bir başlangıç durumundan başladığında, açıkça belirlenmiş bir son durumunda sonlanan, sonlu işlemler kümesidir. Yani belli bir problemi çözmek veya belirli bir amaca ulaşmak için çizilen yola algoritma denir.(Wikipedia)
-
+<br />
 Bunun tercümesi programın yol haritasıdır. Ne nasıl yapılacak yazmaktır. Buna gerçek hayattan bir örnek verelim. Evinizdesiniz odanızın lambasını yakıcaksınız neler yapmanız lazım bir düşünün.
-
+<br />
 Eğer oturuyorsanız yerinizden kalkmalısınız.(1)
-
+<br />
 Kalktıktan sonra lambaya doğru yürümelisiniz.(2)
-
+<br />
 Lambanın anahtarını çevirmeli ve lambayı yakmalısınız.(3)
-
- 
+<br />
+ <br />
 
 İşte bu üç adım bizim lambayı yakmamız için gereken algoritmadır.
-
-240px-LampFlowchart_tr.svg
+<br />
+<a href="http://aliofluoglu.brainsofage.com/wp-content/uploads/2015/12/240px-LampFlowchart_tr.svg_-220x300.png"> </a>
 
 Gördüğünüz gibi küçük bir algoritma fotografı koydum yine lambalar için. Bu resimde ki şekillere aldanmayın onlara geleceğiz daha sonra.
 
